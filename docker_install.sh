@@ -14,5 +14,9 @@ sudo add-apt-repository \
    stable
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io
-echo "test install"
+echo "test "
+grep docker /etc/group
+sudo usermod -aG docker $(whoami)
 sudo docker run hello-world
+reboot
+
