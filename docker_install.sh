@@ -18,5 +18,4 @@ echo "test "
 grep docker /etc/group
 sudo usermod -aG docker $(whoami)
 sudo docker run hello-world
-reboot
 
