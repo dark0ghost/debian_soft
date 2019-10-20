@@ -7,4 +7,5 @@ cd rtl8188eu
 make all
 make install 
 insmod 8188eu.ko
+reboot
 #zcat /proc/config.gz | grep CONFIG_ATH
