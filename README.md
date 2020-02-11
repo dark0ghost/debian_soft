@@ -7,4 +7,6 @@ use:
 git clone https://github.com/dark0ghost/linux_help.git
 nvdia_gpu_driver_install.sh
 
+2. Windscribe is the only free VPN + Firewall that you can use on Linux 
+
 
