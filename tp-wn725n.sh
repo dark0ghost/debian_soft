@@ -6,6 +6,6 @@ git clone https://github.com/lwfinger/rtl8188eu
 cd rtl8188eu
 make all
 make install 
-insmod 8188eu.ko
+sudo insmod 8188eu.ko 
 reboot
 #zcat /proc/config.gz | grep CONFIG_ATH
