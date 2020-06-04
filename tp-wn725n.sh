@@ -1,6 +1,7 @@
 sudo apt-get update
 sudo apt-get install linux-headers-$(uname -r)
-sudo apt-get update sudo apt-get install build-essential
+sudo apt-get update 
+sudo apt-get install build-essential
 sudo apt-get install git
 git clone https://github.com/lwfinger/rtl8188eu.git
 cd rtl8188eu
