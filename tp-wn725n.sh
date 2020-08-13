@@ -1,3 +1,4 @@
+#!/usr/bin
 sudo apt-get update
 sudo apt-get install linux-headers-$(uname -r)
 sudo apt-get update 
@@ -8,5 +9,4 @@ cd rtl8188eu
 make all
 make install 
 sudo insmod 8188eu.ko 
-reboot
-#zcat /proc/config.gz | grep CONFIG_ATH
+zcat /proc/config.gz | grep CONFIG_ATH
