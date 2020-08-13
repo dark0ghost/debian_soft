@@ -2,7 +2,13 @@
 ```
 this repository contains various installer files for os debian
 ```
-
+# need package manager 
+```
+apt
+apt-get
+snapd
+helm
+```
 
 |name|about|
 |---|---|
