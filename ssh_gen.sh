@@ -1,3 +1,3 @@
  #!/usr/bin
- ssh-keygen -t rsa
+ ssh-keygen -t  $type
  cat ~/.ssh/id_rsa.pub
