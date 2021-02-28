@@ -36,4 +36,5 @@ helm
 |[sdkman](https://github.com/dark0ghost/debian_soft/blob/master/sdkman_install.sh) |[SDKMAN!](https://sdkman.io/) is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. |
 |[ssh key gen](https://github.com/dark0ghost/debian_soft/blob/master/ssh_gen.sh)|[create ssh-key and prints it to the console](https://community.vscale.io/hc/ru/community/posts/207745269-%D0%9A%D0%B0%D0%BA-%D1%81%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-SSH-%D0%BA%D0%BB%D1%8E%D1%87-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BD%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80). use **ssh_gen.sh rsa**|
 |[docker-machine](https://github.com/dark0ghost/debian_soft/blob/master/docker_machine.sh)|https://github.com/docker/machine|
+|[Universal Android Debloater](https://github.com/dark0ghost/debian_soft/blob/master/universal_android_debloater.sh)|https://gitlab.com/W1nst0n/universal-android-debloater/-/tree/master|
 
