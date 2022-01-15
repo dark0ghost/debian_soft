@@ -5,5 +5,6 @@ sudo apt-get update
 sudo apt-get remove docker docker-engine docker.io -y
 sudo apt-get install docker-ce -y
 sudo usermod -aG docker $USER
+pip install docker-compose
 newgrp docker
 docker run hello-world
